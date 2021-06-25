@@ -5,7 +5,7 @@ export default class Image extends Component {
   render() {
     return (
       <div>
-        <img width="35%" src={AFLogo} alt="Alpine Flyers Logo" />
+        <img width="30%" src={AFLogo} alt="Alpine Flyers Logo" />
       </div>
     )
   }

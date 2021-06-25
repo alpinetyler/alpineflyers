@@ -14,10 +14,13 @@
   }
   
   header {
-    background-color:white;
+    //background-color:white;
     margin: auto -16px;
     padding: 16px 32px;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    background-image: linear-gradient(to bottom, blue, blue 25%, teal 50%, teal);
+    background-size: cover;
+    background-repeat: no-repeat;
+    //box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
   
   header h1 {
@@ -51,7 +54,12 @@
 
   .body-text {
     margin: 50px;
-    width: 80%;
     text-align: left;
+    font-family:'Gill Sans';
+    font-size: 1.25em;
+  }
+
+  .heading { 
+    margin: 20px;
   }
 
