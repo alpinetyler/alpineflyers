@@ -2,15 +2,19 @@ import './App.css';
 import './styles.css'
 import Footer from './components/Footer';
 import Header from './components/Header';
-import Body from './components/Body';
+import routes from './routes'
+import { HashRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Body />
-      <Footer />
-    </div>
+    <HashRouter>
+      <div className="App">
+        <Header />
+          {routes}
+        <Footer />
+      </div>
+      </HashRouter>
+    
   );
 }
 

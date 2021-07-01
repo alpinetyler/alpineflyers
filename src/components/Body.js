@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Form from './Form'
 
 export default class Body extends Component {
     constructor() {
@@ -29,7 +30,7 @@ export default class Body extends Component {
                 </p>
                 </p>
                 </div>
-                
+                <Form />
             </div>
         )
     }
