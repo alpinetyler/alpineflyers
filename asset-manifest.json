@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alpineflyers/static/css/main.002eee02.chunk.css",
+    "main.js": "/alpineflyers/static/js/main.a49c6a19.chunk.js",
+    "main.js.map": "/alpineflyers/static/js/main.a49c6a19.chunk.js.map",
+    "runtime-main.js": "/alpineflyers/static/js/runtime-main.7ef81536.js",
+    "runtime-main.js.map": "/alpineflyers/static/js/runtime-main.7ef81536.js.map",
+    "static/js/2.62053b4a.chunk.js": "/alpineflyers/static/js/2.62053b4a.chunk.js",
+    "static/js/2.62053b4a.chunk.js.map": "/alpineflyers/static/js/2.62053b4a.chunk.js.map",
+    "static/js/3.6fbc8802.chunk.js": "/alpineflyers/static/js/3.6fbc8802.chunk.js",
+    "static/js/3.6fbc8802.chunk.js.map": "/alpineflyers/static/js/3.6fbc8802.chunk.js.map",
+    "index.html": "/alpineflyers/index.html",
+    "static/css/main.002eee02.chunk.css.map": "/alpineflyers/static/css/main.002eee02.chunk.css.map",
+    "static/js/2.62053b4a.chunk.js.LICENSE.txt": "/alpineflyers/static/js/2.62053b4a.chunk.js.LICENSE.txt",
+    "static/media/AFLogo.6b539dc6.png": "/alpineflyers/static/media/AFLogo.6b539dc6.png",
+    "static/media/styles.css": "/alpineflyers/static/media/sky.fbfe3744.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ef81536.js",
+    "static/js/2.62053b4a.chunk.js",
+    "static/css/main.002eee02.chunk.css",
+    "static/js/main.a49c6a19.chunk.js"
+  ]
+}
