@@ -4,7 +4,7 @@ function Login() {
   return (
     <div className="App">
         <h1 className="heading">Login</h1>
-        <form action="/Body">
+        <form action="/">
             <div class="form-floating mb-3">
                 <input type="email" class="form-control" id="floatingInput" autocomplete="off" placeholder="name@example.com" />
                 <label for="floatingInput">Email address</label>
@@ -13,7 +13,7 @@ function Login() {
                 <input type="password" class="form-control" id="floatingPassword" placeholder="Password" />
                 <label for="floatingPassword">Password</label>
                 
-                <button type="submit" class="btn btn-primary">Login</button>
+                <button type="submit" class="btn btn-primary">Logoon</button>
             </div>
         </form>
         
