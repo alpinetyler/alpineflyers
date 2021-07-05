@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-* {
+*, html, body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -33,7 +33,9 @@
     position: absolute;
     text-align: center;
     bottom: 0;
+    left: 0;
     width: 100%;
+    /* margin: 0; */
     /* height: 2.5rem; */
     background-image: url(images/sky.jpg);
     padding: 20px;
@@ -98,4 +100,8 @@
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
+}
+
+.btn{
+  margin-top: 20px;
 }
